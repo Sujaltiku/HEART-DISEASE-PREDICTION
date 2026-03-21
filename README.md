@@ -1,7 +1,7 @@
 #  Heart Disease Prediction System
 
 A Machine Learning web application that predicts the likelihood of heart disease using clinical patient data.
-The model is trained using Logistic Regression and deployed with a Streamlit interface for real-time prediction.
+The model is trained using Logistic Regression and deployed with a Streamlit interface  for real-time prediction.
 
 ---
 
